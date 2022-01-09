@@ -8,3 +8,6 @@ This is a password generator application for android programmed using Kotlin in 
 > What each file does
 - XML Files contain the Views of the application.
 - .kt files contain the logic.
+
+## Design
+> How it Looks
